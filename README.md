@@ -1,16 +1,96 @@
-## Hi there 👋
+# 🌐 Bem-vindo ao meu GitHub!
+---
 
-<!--
-**jplhfernandez/jplhfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Leste, sou um profissional formado e certificado pelo SENAC Itaquera com habilidades práticas em manutenção de redes, desenvolvimento de algoritmos, banco de dados e aplicações computacionais para desktop e web. Tenho experiência no planejamento e execução de instalação de hardware, software e redes locais, além de desenvolvimento e documentação de sistemas para internet e desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória acadêmica inclui diversas experiências práticas e apresentações:
+
+- **Etec Professor Aprígio Gonzaga:** Participação em eventos como a Expo Aprígio e apresentação de TCC, desenvolvendo habilidades de comunicação e demonstração de projetos para públicos variados.
+- **Senac Itaquera:** Aplicação e apresentação de conhecimentos teóricos e práticos em manutenção de computadores, redes de computadores e desenvolvimento de sistemas utilizando C#, PHP e Bootstrap.
+- **Fatec Zona Leste:** Representação em eventos institucionais, como a Fatec Portas Abertas, destacando projetos desenvolvidos e compartilhando conhecimento com a comunidade acadêmica.
+
+Busco constantemente expandir meus conhecimentos e habilidades para contribuir com soluções tecnológicas eficientes e inovadoras no mercado.
+
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jplhfernandez&show_icons=true&theme=react" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jplhfernandez&layout=compact&theme=react" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## Tecnologias & Ferramentas
+
+<div align="center">
+
+### Linguagens de Programação
+
+<p>
+  <span style="display:inline-block; border-radius:50%; background:#8993be; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="PHP" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#ffe873; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#239120; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" alt="C#" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#f89820; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" alt="Java" />
+  </span>
+</p>
+
+### Front-End
+
+<p>
+  <span style="display:inline-block; border-radius:50%; background:#e34c26; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="HTML5" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#2965f1; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="CSS3" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#f7df1e; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="JavaScript" />
+  </span>
+  <span style="display:inline-block; border-radius:50%; background:#dd0031; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px" alt="Angular" />
+  </span>
+</p>
+
+### Framework
+
+<p>
+  <span style="display:inline-block; border-radius:50%; background:#7a32aa; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="Bootstrap" />
+  </span>
+</p>
+
+### CMS
+
+<p>
+  <span style="display:inline-block; border-radius:50%; background:#21759b; padding:8px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30px" alt="WordPress" />
+  </span>
+</p>
+
+</div>
+
+---
+
+## Contato
+
+- 📧 jplhfernandez@gmail.com
+- 🔗 https://www.linkedin.com/in/joao-pedro-leme-hernandez-fernandez/  
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4wYm9zNzRvaTk4a3FkaWRleGg4MnZvdzk4bnpwanNqNDh5Y3lkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YamEiIYltJtLUI/giphy.gif">
+</div>
+
+---
