@@ -85,7 +85,7 @@ Busco constantemente expandir meus conhecimentos e habilidades para contribuir c
 ## Contato
 
 - 📧 jplhfernandez@gmail.com
-- 🔗 https://www.linkedin.com/in/joao-pedro-leme-hernandez-fernandez/  
+- 🔗 https://www.linkedin.com/in/joaopedrolemehernandezfernandez/  
 
 ---
 
