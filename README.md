@@ -18,8 +18,8 @@ Busco constantemente expandir meus conhecimentos e habilidades para contribuir c
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jplhfernandez&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jplhfernandez&layout=compact&theme=react&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jplhfernandez&show_icons=true&theme=react" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=jplhfernandez&layout=compact&theme=react" alt="Top Languages" height="150" />
 </p>
 
 ---
