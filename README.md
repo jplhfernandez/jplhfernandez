@@ -13,17 +13,6 @@ Minha trajetória acadêmica inclui diversas experiências práticas e apresenta
 
 Busco constantemente expandir meus conhecimentos e habilidades para contribuir com soluções tecnológicas eficientes e inovadoras no mercado.
 
----
-
-## 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jplhfernandez&show_icons=true&theme=react" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=jplhfernandez&layout=compact&theme=react" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## Tecnologias & Ferramentas
 
 <div align="center">
