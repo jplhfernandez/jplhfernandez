@@ -14,7 +14,7 @@ Minha trajetória acadêmica inclui diversas experiências práticas e apresenta
 Busco constantemente expandir meus conhecimentos e habilidades para contribuir com soluções tecnológicas eficientes e inovadoras no mercado.
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonarddoamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+&nbsp&nbsp
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonarddoamaral&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## Tecnologias & Ferramentas
